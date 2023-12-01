@@ -1,4 +1,4 @@
-# tech_media
+# Trivified
 
 Demo project
 A new Flutter project.
